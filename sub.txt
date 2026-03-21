@@ -2,13 +2,13 @@
 #update-interval: 6
 #hide-settings: true
 
-# --- ТОП ЕВРОПА ---
+# --- ЕВРОПА ---
 vless://7c32f706-bd9d-4218-b54d-d9211c86dbe7@144.31.143.178:997?encryption=none&type=grpc&security=reality&mode=gun&serviceName=xyz&fp=chrome&sni=eh.vk.com&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&sid=d49d578f280fd83a#🇫🇮 Финляндия 💠
 vless://a55a1cb4-cdb3-43db-9095-a8321ca1e9ad@fl-1.124515.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=QM7dQLF8gCcqYMCWP9S8Cag0fGr_l0hA5ec1WL9Jd0E&sid=c477b92f2a686bb6&sni=fl-1.124515.xyz#🇫🇮 Финляндия 💠
 vless://3fe48a33-aac8-41cd-b2db-fdeeafced0aa@5.42.118.198:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vk.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#🇩🇪 Германия 💠
 vless://060e65be-0b24-4e75-8d84-db52ba7629d7@51.250.97.23:443?type=tcp&security=reality&fp=random&pbk=ztkSbPm225wqr3Kw6oK1pYaIXPsSK7UBQYgjRGJNqwk&sid=52&sni=www.google.com#🇳🇱 Нидерланды 💠
 
-# --- ТВОИ ОБХОДЫ (LTE / РФ) ---
+# --- ОБХОДЫ (LTE / РФ) ---
 vless://cca06afd-e612-4378-b3d4-2a61b8659323@37.139.32.113:443?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=3v-9P94hjSE1fw6we1J4RvyIYnFhySQUAe1DUKqkaBo&sni=eh.vk.com&sid=7f2e9c4b1a8d6a53#🚫Обход | LTE-1 💠
 vless://cca06afd-e612-4378-b3d4-2a61b8659323@37.139.32.113:443?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&fp=firefox&pbk=3v-9P94hjSE1fw6we1J4RvyIYnFhySQUAe1DUKqkaBo&sni=eh.vk.com&sid=7f2e9c4b1a8d6a53#🚫Обход | LTE-1-2 💠
 vless://cca06afd-e612-4378-b3d4-2a61b8659323@79.137.174.98:443?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=3v-9P94hjSE1fw6we1J4RvyIYnFhySQUAe1DUKqkaBo&sni=eh.vk.com&sid=7f2e9c4b1a8d6a53#🚫Обход | LTE-2 💠
