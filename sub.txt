@@ -11,7 +11,7 @@ vless://c123893a-0ab3-4923-8888-1196a94f6e92@pl123.mechvpn.online:443?security=t
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@nl-main.thetopvpn.ru:443?security=reality&encryption=none&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9a4c1d8f2e3b4a11#🇳🇱 Нидерланды
 vless://6053689d-39d6-4005-b1bd-c0dce854f429@se.chunkyvpn.shop:443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.chunkyvpn.shop#🇸🇪 Швеция
 
-vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🚀 Обход
+vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🚀 Белые списки
 
 vless://18521157-83f3-4a21-8ebb-88454d1ed5b2@87.239.108.204:2443?security=reality&encryption=none&pbk=43MxR6rbzZrI-XTL-B_lPwbl4-Mr5v0mumP5wleUYjs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ads.x5.ru&sid=2f7cbec60e#🚀 Обход 1
 vless://38db2d05-6edb-4239-a830-f97d0dcea02f@84.201.147.122:8090?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&fp=qq&type=xhttp&sni=sun6-21.userapi.com&sid=6b2f4e6ac9b1d2f0#🚀 Обход 2
