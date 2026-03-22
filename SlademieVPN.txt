@@ -1,41 +1,46 @@
 #profile-update-interval: 1
 #profile-title: 🍓 SlademieVPN 🍓
 
-# ═══════════════════════════════════
-# 📶 LTE • ОБХОД
-# ═══════════════════════════════════
+vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🍓 LTE | БЕЛЫЕ СПИСКИ
 
-vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🍓 LTE | Белые списки
+vless://8d05e483-bb47-46ba-b6e4-cb682eece6a8@217.16.30.69:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com#📶 LTE | 🇷🇺 Россия 1
 
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@chat.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=4f61d0728e062b#📶 LTE Обход 1
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@pass.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bcda713784d56483#📶 LTE Обход 2
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@ai.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=513b0a#📶 LTE Обход 3
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@save.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#📶 LTE Обход 4
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@rev.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e7#📶 LTE Обход 5
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@strafe.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#📶 LTE Обход 6
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@greet.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=fb916778d4#📶 LTE Обход 7
+vless://7675d45e-7845-41a8-a97f-530a9411f63b@92.53.105.80:443?mode=gun&security=reality&encryption=none&pbk=_69wn-VZn2fPHi-v9Q5XkZ-AixXtbUY45tHb_oxGmig&fp=random&spx=%2F&type=grpc&serviceName=rutube&sni=rutube.ru%3A443&sid=15318b9c28#📶 LTE | 🇷🇺 Россия 2
 
-vless://18521157-83f3-4a21-8ebb-88454d1ed5b2@87.239.108.204:2443?security=reality&encryption=none&pbk=43MxR6rbzZrI-XTL-B_lPwbl4-Mr5v0mumP5wleUYjs&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ads.x5.ru&sid=2f7cbec60e#📶 LTE Обход 8
-vless://bb9503ae-973c-4fc9-b25e-6bc2cd7dae6d@37.139.32.100:443?security=reality&encryption=none&pbk=6vOTAOtlCiopleiQTH3SBrulc5hHdH5OQlziTOna_SY&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=22#📶 LTE Обход 9
-vless://ca14ef40-a9fa-47ba-b72e-8d579e7a8bbb@158.160.226.235:8443?security=reality&encryption=none&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#📶 LTE Обход 10
+vless://7675d45e-7845-41a8-a97f-530a9411f63b@85.239.48.142:443?mode=gun&security=reality&encryption=none&pbk=_69wn-VZn2fPHi-v9Q5XkZ-AixXtbUY45tHb_oxGmig&fp=random&spx=%2F&type=grpc&serviceName=rutube&sni=rutube.ru%3A443&sid=15318b9c28#📶 LTE | 🇷🇺 Россия 3
 
-# ═══════════════════════════════════
-# 🌍 ЗАРУБЕЖНЫЕ
-# ═══════════════════════════════════
+vless://6cabb434-f480-478a-9586-a5667167eeb1@146.185.240.92:8443?mode=auto&path=%2Fapi%2Fmaps&security=reality&encryption=none&pbk=YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI&host=5post-gate-test.x5.ru&fp=chrome&type=xhttp&sni=5post-gate-test.x5.ru#📶 LTE | 🇷🇺 Россия 4
 
-vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🍓 Зарубежные
+vless://e1c3b1b5-5d8f-000a-a999-b442762dc245@89.208.223.111:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=sbrf-cdn342.ru&sid=111111#📶 LTE | 🇷🇺 Россия 5
+
+vless://3d737761-5951-462e-86c1-ff921d9f9999@87.239.107.34:8443?mode=auto&path=%2Fapi%2Fmaps&security=reality&encryption=none&pbk=YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI&host=5post-gate-test.x5.ru&fp=qq&type=xhttp&sni=5post-gate-test.x5.ru#📶 LTE | 🇷🇺 Россия 6
+
+vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@chat.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=4f61d0728e062b#📶 LTE | 🇷🇺 Россия 7
+
+vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@pass.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bcda713784d56483#📶 LTE | 🇷🇺 Россия 8
+
+vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@ai.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=513b0a#📶 LTE | 🇷🇺 Россия 9
+
+vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@save.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#📶 LTE | 🇷🇺 Россия 10
+
+vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@rev.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e7#📶 LTE | 🇷🇺 Россия 11
+
+vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@strafe.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#📶 LTE | 🇷🇺 Россия 12
+
+vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@greet.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=fb916778d4#📶 LTE | 🇷🇺 Россия 13
+
+
+vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🍓 ЗАРУБЕЖНЫЕ
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWHM1U3pnQjl4UFE3bVhDRFJkUm1m@150.241.122.41:29937#🇩🇪 Германия
 
 vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@us1.frostbot.ru:443?security=reality&encryption=none&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1.frostbot.ru&sid=b9bb5c1a#🇺🇸 США
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@fin3.frostbot.ru:443?security=reality&encryption=none&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fin3.frostbot.ru&sid=5589c1#🇫🇮 Финляндия
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@nld9.frostbot.ru:443?security=reality&encryption=none&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nld9.frostbot.ru&sid=aec8501e29505ad5#🇳🇱 Нидерланды
-vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@de9.frostbot.ru:443?security=reality&encryption=none&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=b9605803fb4b#🇩🇪 Германия
 
-# ═══════════════════════════════════
-# 🍓 ИГРОВЫЕ
-# ═══════════════════════════════════
+vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@nld9.frostbot.ru:443?security=reality&encryption=none&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nld9.frostbot.ru&sid=aec8501e29505ad5#🇳🇱 Нидерланды
+
 
 vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🍓 Игровые
 
 vless://24d20299-d1d1-4060-a4b3-b715c247c2c5@178.154.196.95:443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=a20d3ed244c76426#🇷🇺 Россия 1
-vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#🇷🇺 Россия 2
 
+vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#🇷🇺 Россия 2
