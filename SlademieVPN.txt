@@ -1,7 +1,7 @@
 #profile-update-interval: 1
 #profile-title: 🍓 SlademieVPN 🍓
 
-vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🍓 LTE | БЕЛЫЕ СПИСКИ
+vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🍓 LTE | Белые списки
 
 vless://8d05e483-bb47-46ba-b6e4-cb682eece6a8@217.16.30.69:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com#📶 LTE | 🇷🇺 Россия 1
 
@@ -30,7 +30,7 @@ vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@strafe.enigmabot.ru:443?security=re
 vless://33b412c6-8194-48bb-bb26-ba4b44f780dd@greet.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=fb916778d4#📶 LTE | 🇷🇺 Россия 13
 
 
-vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🍓 ЗАРУБЕЖНЫЕ
+vless://11111111-1111-1111-1111-111111111111@1.1.1.1:443?type=tcp&security=tls#🍓 Зарубежные
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWHM1U3pnQjl4UFE3bVhDRFJkUm1m@150.241.122.41:29937#🇩🇪 Германия
 
